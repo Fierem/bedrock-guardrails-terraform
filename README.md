@@ -3,6 +3,7 @@
 This repository accompanies my IBM TechXchange 2026 session:
 
 **TLK-4025 — Securing LLM Workflows: Deploying and Testing Amazon Bedrock Guardrails via Terraform**
+https://reg.tools.ibm.com/flow/ibm/techxchange26/sessioncatalog/page/sessioncatalog/session/1779485033751001EYds
 
 **Peter Le**
 Security Engineer
